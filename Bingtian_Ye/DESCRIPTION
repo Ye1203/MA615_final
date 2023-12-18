@@ -1,0 +1,9 @@
+Package: YourAppName
+Type: Shiny
+Version: 1.0
+Imports:
+    shiny,
+    sf,
+    ggplot2,
+    rnaturalearth,
+    rnaturalearthdata
